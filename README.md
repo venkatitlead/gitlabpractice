@@ -8,4 +8,5 @@ four
 five
 six
 get-date
-get-time
+get-tim
+testlevel
