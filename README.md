@@ -1,13 +1,2 @@
-# gitlabpractice --Dev Branch
-
-practice list
-one
-two
-three
-four
-five
-six
-get-date
-get-tim
-testlevel
-1111111
+# gitlabpractice --Release
+Welcome to Release branch of git
